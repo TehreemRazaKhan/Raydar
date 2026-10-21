@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+install/
+log/
+*.so
+*.o
+*.a
+*.d
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Backups
+*.bak
+*.orig
+
+# OS
+.DS_Store
