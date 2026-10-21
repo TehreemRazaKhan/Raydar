@@ -1,4 +1,4 @@
-# raydar
+# Raydar
 
 A custom radar sensor plugin for **Gazebo Garden** (gz-sim7) with **ROS 2 Humble** integration.
 
